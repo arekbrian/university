@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bangladesh Univversity Of Business and Technology</title>
+	<title>University Of Business and Technology</title>
 	<link rel="shortcut icon" href="asset/image/fabicon.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/fontawesome.min.css">
