@@ -29,7 +29,7 @@
 			<div class="row">
 				<div class="col-lg-5">
 					<div class="main-contact">
-						<a href="#"><i class="fas fa-address-book"></i> +8801967169189</a>
+						<a href="#"><i class="fas fa-address-book"></i> +254748821539</a>
 						<a class="email" href="#"><i class="fas fa-address-book"></i>info@bubt.edu.bd</a>
 					</div>
 				</div>
