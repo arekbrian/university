@@ -96,7 +96,7 @@
 						<ul>
 							<li><a href="#">074882153</a></li>
 							<li><a href="#">info@bubt.edu.bd</a></li>
-							<li><a href="#">Rupnagar, Mirpur-2, Dhaka-1216, Kenya</a></li>
+							<li><a href="#">Rupnagar, Mirpur-2, N, Kenya</a></li>
 						</ul>
 					</div>
 				</div>
