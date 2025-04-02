@@ -94,7 +94,7 @@
 					</div>
 					<div class="widgets-content">
 						<ul>
-							<li><a href="#">0748</a></li>
+							<li><a href="#">07488</a></li>
 							<li><a href="#">info@bubt.edu.bd</a></li>
 							<li><a href="#">Rupnagar, Mirpur-2, Dhaka-1216, Kenya</a></li>
 						</ul>
