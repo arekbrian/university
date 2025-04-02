@@ -95,7 +95,7 @@
 					<div class="widgets-content">
 						<ul>
 							<li><a href="#">074882153</a></li>
-							<li><a href="#">info@bubt.edu.bd</a></li>
+							<li><a href="#">info@icaredev.com</a></li>
 							<li><a href="#">Nairobi, Kenya</a></li>
 						</ul>
 					</div>
