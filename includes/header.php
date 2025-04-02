@@ -30,7 +30,7 @@
 				<div class="col-lg-5">
 					<div class="main-contact">
 						<a href="#"><i class="fas fa-address-book"></i> +254748821539</a>
-						<a class="email" href="#"><i class="fas fa-address-book"></i>info@bubt.edu.bd</a>
+						<a class="email" href="#"><i class="fas fa-address-book"></i>info@icaredev.com</a>
 					</div>
 				</div>
 				<div class="col-md-4">
