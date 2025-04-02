@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/*Template Name: Adminox Dashboard
+Author: CoderThemes
+Email: coderthemes@gmail.com
+File: Main Css
+*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Karla:700|Nunito+Sans:600,700");
+.std_img img{
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 70%;
+
+}
+.std_part_one{
+	 margin-top : 20px;
+}
+
+.std_part_one table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.std_part_one td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.std_part_one tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.form-group.btn_input {
+    margin-left: 45%;
+    margin-top: 5%;
+}

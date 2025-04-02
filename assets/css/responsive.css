@@ -1,0 +1,38 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+	.teacher-student {
+		text-align: left;
+	}
+	.search {
+		text-align: left;
+	}
+	.banner-text2 {
+		position: absolute;
+		top: 29%;
+		left: 7%;
+	}
+	.banner-text2 h1 {
+		font-size: 26px;
+		background-color: #243C5D;
+		padding: 4px;
+		max-width: 440px;
+		border-left: 7px solid #fd0606;
+		border-right: 7px solid #fd0606;
+		border-radius: 5px;
+	}
+	.offer-area {
+    left: 0px;
+}
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
