@@ -3,6 +3,6 @@ Academic Activities Prediction And Guiding System For University Students is a w
 
 Check report sql folder for databse file 
 
-admin logins:
+admin logins: <br>
 username: admin
 password: admin
